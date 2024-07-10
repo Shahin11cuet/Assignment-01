@@ -174,7 +174,7 @@ max-height: 100px;
 width: 820px;
 background-color: rgb(253, 253, 253);
 vertical-align: middle;
-margin-left: 160px;
+margin-left: 85px;
 
 }
 .section-description02{
@@ -211,7 +211,7 @@ margin-bottom: 20px;
   height: 500px;
   background-color: rgb(253, 253, 253);
   vertical-align: middle;
-  margin-left: 150px;
+  margin-left: 85px;
   margin-top: 50px;
   
   }
@@ -230,7 +230,7 @@ margin-bottom: 20px;
   width: 250px;
   height: 200px;
   background-color: rgb(252, 245, 232) ;
-
+ border-radius: 10px;
 
   }
   .div-adjustments-02{
@@ -238,7 +238,7 @@ margin-bottom: 20px;
     width: 250px;
     height: 200px;
     background-color: rgb(224, 245, 254) ;
-  
+    border-radius: 10px;
   
     }
     .div-adjustments-03{
@@ -246,7 +246,7 @@ margin-bottom: 20px;
       width: 250px;
       height: 200px;
       background-color: rgb(240, 255, 224) ;
-    
+      border-radius: 10px;
     
       }
 
@@ -294,3 +294,92 @@ margin-bottom: 20px;
     display:flex;
     gap: 20px;
   }
+
+
+
+  .text03{
+
+    font-size: 20px;
+    font-weight: 900;
+    font-family: inherit;
+    color: #f1f1f1;
+    margin-top: 50px;
+
+    
+
+  }
+  .section-headings{
+
+   text-align: center;
+   margin: 50px;
+  }
+  .section-04{
+
+    
+    background-image: url(../assets/handshake.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 850px;
+    height: 200px;
+    align-items: center;
+    text-align: center;
+    margin: 50px;
+    margin-left: 50px;
+    border-radius: 10px;
+    
+  }
+  .btn04{
+
+    width: 100px;
+    height: 50px;
+    background-color: #f1f1f1;
+    color: #0D1321;
+    font-weight: bold;
+    font-family: inherit;
+    border-radius: 10px;
+    border-color: #333;
+
+
+  }
+  .adjust-searchbar{
+
+    height: 50px;
+    width: 400px;
+    font-size: 40-px;
+    color: #979595;
+    background-color: white;
+    border-radius: 10px;
+  }
+  .section-description04{
+  
+    font-size: 10px;
+    text-align: center;
+    max-width: 450px;
+    margin-left: 120px;
+    margin-bottom: 20px;
+    color: #f1f1f1;
+    margin-top: 30px;
+    }
+
+    .fot{
+        
+      background-color: azure;
+     margin-left: 10px;
+     
+    }
+    .icon02{
+
+      width: 30px;
+      height: 30px;
+      display: flex;
+      margin-left: 500px;
+      padding: 0px 0px 30px;
+    
+    }
+    .headtext{
+
+       margin-top: 30px;
+
+    }
+    
