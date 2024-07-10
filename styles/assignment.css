@@ -134,6 +134,7 @@ max-width: 300px;
 max-height: 150px;
 margin :10.5px;
 margin-right: 100px;
+text-align: left;
 
 }
   
@@ -144,7 +145,7 @@ margin-right: 100px;
   max-width:250px;
   max-height:30px;
   margin-right:20px;
-  margin-bottom:40px;
+  margin-bottom:20px;
 }
 
 .task-description{
@@ -279,7 +280,7 @@ margin-bottom: 20px;
 
   }
   .btn03{
-
+  color: #181818;
    margin-top: 20px;
    background-color: transparent;
    text-decoration: dashed;
@@ -287,6 +288,7 @@ margin-bottom: 20px;
    font-weight: bold;
    text-decoration: underline;
    border: none;
+ 
 
   }
   .div-adjustments-main{
