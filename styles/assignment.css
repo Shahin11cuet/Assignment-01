@@ -62,3 +62,97 @@ background-position-x: 0;
     font-size: 20px;
     font-family: inherit;
 }
+
+.text{
+
+font-size: 24px;
+font-weight: 900;
+font-family: inherit;
+color: #181818
+
+}
+
+.second-task{
+       
+  max-width: 1140px;
+  max-height: 1393px;
+  margin: 74px 152px;
+  padding: 80px 97px;
+  text-align: center;
+  margin-top: 74px;
+
+}
+
+.section-description{
+
+  color: #0D1321;
+  font-size: 16px;
+  
+}
+.text-alignment{
+  text-align: center;
+}
+
+
+.section-bg{
+
+ margin :74px 152px;
+ background-color: antiquewhite;
+ padding: 80px 97px;
+
+}
+.div-bg{
+  max-width:946px;
+  max-height:336;
+  justify-content: space-between;
+  margin : 241px 97px;
+  background-color: ;
+  }
+.div-bg-02{
+
+display: flex;
+max-width: 850px;
+max-height: 240px;
+padding: 48px 48px;
+justify-content: space-between;
+}
+.task-contents{
+max-width: 477px;
+max-height: 219px;
+
+}
+  
+.task-title{
+
+  font-size: 24px;
+  font-weight: bold;
+  text-align: left
+}
+
+.task-description{
+
+  text-align: left
+
+}
+
+.btn-02{
+font-size: 20px;
+font-weight: 600;
+background-color: white;
+border-color: #181818;
+font-family: inherit;
+
+}
+.div-btn{
+  text-align: left
+  padding 12px 20px;
+ max-width: 171px;
+ max-height: 47;
+ 
+}
+
+.img-2{
+
+max-width: 275px;
+max-height: 240px;
+}
