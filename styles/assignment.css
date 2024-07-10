@@ -63,6 +63,10 @@ background-position-x: 0;
     font-family: inherit;
 }
 
+.html{
+
+  scroll-behavior: smooth;
+}
 .text{
 
 font-size: 20px;
@@ -366,7 +370,7 @@ margin-bottom: 20px;
 
     .fot{
         
-      background-color: azure;
+      background-color: rgb(237, 238, 238);
      margin-left: 10px;
      
     }
